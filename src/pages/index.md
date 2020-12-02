@@ -22,7 +22,7 @@ sections:
     col_number: three
     testimonials:
       - author: Jason
-        content: lorem-ipsum
+        content: This is great!
         type: testimonial
     type: section_testimonials
 template: advanced
