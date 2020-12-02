@@ -18,7 +18,7 @@ sections:
     type: section_hero
   - title: Testimonies
     section_id: test
-    subtitle: lorem-ipsum
+    subtitle: test
     col_number: three
     testimonials: []
     type: section_testimonials
