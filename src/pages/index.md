@@ -8,7 +8,7 @@ sections:
     content: ''
     actions: []
   - title: Galicinski Family Band
-    section_id: lorem-ipsum
+    section_id: intro
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 0
