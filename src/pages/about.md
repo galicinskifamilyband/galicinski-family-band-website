@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: test
-image: images/about.jpg
 template: page
 ---
 
