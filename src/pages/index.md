@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Meet the Galicinski Family Band
+    title: ''
     content: something cool
     actions: []
   - section_id: services
