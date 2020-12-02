@@ -156,6 +156,7 @@ models:
             - section_portfolio
             - section_posts
             - section_testimonials
+            - section_mailchimp
   blog:
     type: page
     urlPath: /blog
