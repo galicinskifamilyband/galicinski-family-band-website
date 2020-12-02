@@ -6,13 +6,7 @@ sections:
     type: section_hero
     title: Meet the Galicinski Family Band
     content: something cool
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
   - section_id: services
     type: section_grid
     title: What We Do
