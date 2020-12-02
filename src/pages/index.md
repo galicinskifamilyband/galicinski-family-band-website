@@ -17,7 +17,7 @@ sections:
     actions: []
     type: section_hero
   - title: Get the Latest News
-    section_id: Name
+    section_id: name
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
