@@ -24,6 +24,7 @@ export default class SectionMailSubscribe extends React.Component {
       this.setState({message: result.msg});
     }
 
+
     render() {
         let section = _.get(this.props, 'section', null);
         return (
@@ -34,6 +35,17 @@ export default class SectionMailSubscribe extends React.Component {
                   <h1 className="block-title">{_.get(section, 'title', null)}</h1>
                 </div>
                 )}
+                {_.get(section, 'content', null) && (
+                <div className="block-content inner-sm">
+                  {markdownify(_.get(section, 'content', null))}
+                </div>
+                )}
+                {_.get(section, 'actions', null) && (
+                <div className="block-buttons inner-sm">
+                  <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
+                </div>
+                )}
+
                 <form name="subscribeForm" method="POST" id="subscribe-form" className="subscribe-form" onSubmit={this.handleSubmit}>
                   <div className="message" dangerouslySetInnerHTML={{ __html: this.state.message}} />
                   <div className="form-row">
@@ -46,6 +58,7 @@ export default class SectionMailSubscribe extends React.Component {
                   </div>
                   <button className="button" type="submit">Subscribe</button>
                 </form>
+
               </div>
             </section>
         );
