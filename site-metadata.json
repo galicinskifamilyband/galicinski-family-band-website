@@ -82,7 +82,7 @@
                 "label": "YouTube",
                 "url": "https://galicinski.band/youtube",
                 "style": "icon",
-                "icon_class": "fa-instagram",
+                "icon_class": "fa-youtube",
                 "new_window": false,
                 "type": "action"
             }
