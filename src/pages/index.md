@@ -16,11 +16,10 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: Testimonies
-    section_id: test
-    subtitle: test
-    col_number: three
-    testimonials:
+  - title: Subscribe to Mailchimp
+    section_id: mailchimp
+    subtitle: Keep in touch
+    subscribe:
       - author: Jason
         content: This is great!
         type: testimonial
