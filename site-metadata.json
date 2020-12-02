@@ -1,7 +1,7 @@
 {
     "description": "A portfolio theme with a blog",
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "color_scheme": "dark",
+    "accent_color": "blue",
     "header": {
         "title": "Exto",
         "has_nav": true,
@@ -51,33 +51,36 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "YouTube",
+                "url": "https://galicinski.band/youtube",
                 "style": "icon",
-                "icon_class": "fa-twitter",
+                "icon_class": "fa-youtube",
+                "new_window": true,
+                "type": "action"
+            },
+            {
+                "label": "Facebook",
+                "url": "https://galicinski.band/facebook",
+                "style": "icon",
+                "icon_class": "fa-facebook",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://galicinski.band/instagram",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Mailchimp",
+                "url": "https://galicinski.band/subscribe",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
+                "icon_class": "fa-mailchimp",
+                "new_window": false,
+                "type": "action"
             },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            }
+            {}
         ]
     },
     "title": "Stackbit Exto Theme"

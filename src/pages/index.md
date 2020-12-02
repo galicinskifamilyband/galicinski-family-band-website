@@ -1,25 +1,12 @@
 ---
-title: Home
+title: Galicinski Family Band
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+    title: Meet the Galicinski Family Band
+    content: something cool
+    actions: []
   - section_id: services
     type: section_grid
     title: What We Do
@@ -79,4 +66,5 @@ sections:
         url: blog
         style: button
 template: advanced
+excerpt: This is a test
 ---
