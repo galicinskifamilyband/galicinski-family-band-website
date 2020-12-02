@@ -86,6 +86,7 @@ sections:
         default_value: ''
         options:
           - asdasdasd
+          - asdasdads
           - lorem-ipsum
         is_required: false
         type: form_field
