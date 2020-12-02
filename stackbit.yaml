@@ -525,19 +525,7 @@ models:
     type: object
     label: MailChimp Section
     extends:
-      - section
-    fields:
-      - type: markdown
-        name: content
-        label: Content
-        description: The text content of the section.
-      - type: list
-        name: actions
-        label: Action Buttons
-        items:
-          type: model
-          models:
-            - action
+      - section_hero
   action:
     type: object
     label: Action
