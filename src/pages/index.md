@@ -7,7 +7,7 @@ sections:
     title: ''
     content: ''
     actions: []
-  - section_id: services
+  - section_id: intro
     type: section_grid
     title: Galicinski Family Band
     subtitle: An optional subtitle of the section
