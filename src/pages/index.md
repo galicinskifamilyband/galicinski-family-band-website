@@ -79,4 +79,5 @@ sections:
         url: blog
         style: button
 template: advanced
+excerpt: test
 ---
