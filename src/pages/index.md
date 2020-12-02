@@ -2,6 +2,11 @@
 title: Galicinski Family Band
 hide_title: true
 sections:
+  - section_id: hero
+    type: section_hero
+    title: Meet the Galicinski Family Band
+    content: something cool
+    actions: []
   - section_id: services
     type: section_grid
     title: What We Do
