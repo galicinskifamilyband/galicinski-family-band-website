@@ -16,6 +16,12 @@ sections:
       fiddle.
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 template: advanced
 excerpt: This is a test
 ---
