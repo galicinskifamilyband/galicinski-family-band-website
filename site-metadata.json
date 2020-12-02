@@ -75,7 +75,7 @@
             {},
             {
                 "label": "Email Subscribe",
-                "url": "lorem-ipsum",
+                "url": "https://galicinski.band/subscribe",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
