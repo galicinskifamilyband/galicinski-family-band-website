@@ -16,7 +16,7 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Testimonies
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
