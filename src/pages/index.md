@@ -16,7 +16,7 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Get the Latest News from the Hall Sisters
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
