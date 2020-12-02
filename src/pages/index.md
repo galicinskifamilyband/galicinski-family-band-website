@@ -34,7 +34,7 @@ sections:
       - input_type: email
         name: Email Address
         label: Email
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: false
         type: form_field
