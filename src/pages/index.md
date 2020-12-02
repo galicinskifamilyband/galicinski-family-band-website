@@ -20,7 +20,10 @@ sections:
     section_id: test
     subtitle: test
     col_number: three
-    testimonials: []
+    testimonials:
+      - author: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
     type: section_testimonials
 template: advanced
 excerpt: This is a test
