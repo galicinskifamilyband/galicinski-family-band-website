@@ -16,7 +16,7 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: Get the Latest News from the Hall Sisters
+  - title: Get the Latest News from the Galicinski Family Band
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
