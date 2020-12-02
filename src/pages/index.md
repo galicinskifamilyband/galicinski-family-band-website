@@ -16,14 +16,6 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: Subscribe to Mailchimp
-    section_id: mailchimp
-    subtitle: Keep in touch
-    subscribe:
-      - author: Jason
-        content: This is great!
-        type: testimonial
-    type: section_testimonials
 template: advanced
 excerpt: This is a test
 ---
