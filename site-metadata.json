@@ -82,7 +82,7 @@
                 "label": "YouTube",
                 "url": "https://galicinski.band/youtube",
                 "style": "icon",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "youtube",
                 "new_window": false,
                 "type": "action"
             }
