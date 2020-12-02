@@ -83,8 +83,9 @@ sections:
       - input_type: text
         name: Name
         label: name
-        default_value: lorem-ipsum
-        options: []
+        default_value: ''
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
