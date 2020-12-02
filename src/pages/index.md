@@ -7,7 +7,7 @@ sections:
     title: ''
     content: ''
     actions: []
-  - title: lorem-ipsum
+  - title: Galicinski Family Band
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
