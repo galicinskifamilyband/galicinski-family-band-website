@@ -16,30 +16,6 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: Get the Latest News
-    section_id: name
-    subtitle: First Name
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    form_id: email-list
-    form_action: subscribe
-    form_fields:
-      - input_type: email
-        name: Email Address
-        label: Email
-        default_value: ''
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: lorem-ipsum
-    type: section_form
 template: advanced
 excerpt: This is a test
 ---
