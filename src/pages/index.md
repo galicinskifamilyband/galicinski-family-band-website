@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Galicinski Family Band
 hide_title: true
 sections:
   - section_id: hero
