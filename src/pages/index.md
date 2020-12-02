@@ -18,7 +18,7 @@ sections:
     type: section_hero
   - title: Get the Latest News
     section_id: name
-    subtitle: lorem-ipsum
+    subtitle: First Name
     content: >-
       ## Lorem ipsum
 
