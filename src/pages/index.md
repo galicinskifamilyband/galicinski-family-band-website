@@ -36,7 +36,7 @@ sections:
         label: Email
         default_value: ''
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     type: section_form
