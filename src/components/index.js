@@ -26,8 +26,8 @@ export {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout,
-    SubscribeForm
+    SubscribeForm,
+    Layout
 };
 
 export default {
@@ -43,6 +43,6 @@ export default {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout,
-    SubscribeForm
+    SubscribeForm,
+    Layout
 };
