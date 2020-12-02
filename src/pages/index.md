@@ -17,7 +17,7 @@ sections:
     actions: []
     type: section_hero
   - title: Testimonies
-    section_id: lorem-ipsum
+    section_id: test
     subtitle: lorem-ipsum
     col_number: three
     testimonials: []
