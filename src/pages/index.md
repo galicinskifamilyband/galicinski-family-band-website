@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: ''
-    content: something cool
+    content: ''
     actions: []
   - section_id: services
     type: section_grid
