@@ -4,7 +4,7 @@
     "accent_color": "blue",
     "header": {
         "title": "Exto",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
