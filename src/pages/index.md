@@ -11,7 +11,7 @@ sections:
     type: section_grid
     title: What We Do
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - title: Service Title
