@@ -79,5 +79,5 @@ sections:
         url: blog
         style: button
 template: advanced
-excerpt: test
+excerpt: This is a test
 ---
