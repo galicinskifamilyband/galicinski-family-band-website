@@ -74,7 +74,7 @@
             },
             {},
             {
-                "label": "Email Subscribe",
+                "label": "Mailchimp",
                 "url": "https://galicinski.band/subscribe",
                 "style": "link",
                 "icon_class": "fa-mailchimp",
