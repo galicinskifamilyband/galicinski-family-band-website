@@ -21,7 +21,7 @@ sections:
     subtitle: test
     col_number: three
     testimonials:
-      - author: lorem-ipsum
+      - author: Jason
         content: lorem-ipsum
         type: testimonial
     type: section_testimonials
