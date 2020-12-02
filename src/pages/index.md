@@ -6,10 +6,7 @@ sections:
     type: section_hero
     title: Meet the Galicinski Family Band
     content: something cool
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
