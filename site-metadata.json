@@ -76,7 +76,7 @@
                 "label": "Mailchimp",
                 "url": "https://galicinski.band/subscribe",
                 "style": "icon",
-                "icon_class": "fa-mars",
+                "icon_class": "fa-e",
                 "new_window": false,
                 "type": "action"
             },
