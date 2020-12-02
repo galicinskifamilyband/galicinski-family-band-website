@@ -85,7 +85,7 @@ sections:
         label: name
         default_value: ''
         options:
-          - lorem-ipsum
+          - asdasdasd
           - lorem-ipsum
         is_required: false
         type: form_field
