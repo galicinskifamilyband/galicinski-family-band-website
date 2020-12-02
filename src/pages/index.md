@@ -29,7 +29,7 @@ sections:
 
       - dolor sit amet
     form_id: email-list
-    form_action: lorem-ipsum
+    form_action: subscribe
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
