@@ -55,7 +55,7 @@ sections:
     type: section_portfolio
   - title: Music?
     section_id: music-grid
-    subtitle: lorem-ipsum
+    subtitle: Something
     col_number: three
     is_numbered: false
     grid_items: []
