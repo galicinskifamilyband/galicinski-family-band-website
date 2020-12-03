@@ -53,26 +53,6 @@ sections:
     view_all_label: Play
     view_all_url: 'https://youtu.be/'
     type: section_portfolio
-  - title: Music?
-    section_id: music-grid
-    subtitle: Something
-    col_number: three
-    is_numbered: true
-    grid_items:
-      - title: David's Jig
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-        image: images/curious-mint.png
-    type: section_grid
 template: advanced
 excerpt: This is a test
 ---
