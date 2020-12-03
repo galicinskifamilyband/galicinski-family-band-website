@@ -45,14 +45,6 @@ sections:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_hero
-  - title: Music
-    section_id: music-portfolio
-    subtitle: this is something
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: Play
-    view_all_url: 'https://youtu.be/'
-    type: section_portfolio
 template: advanced
 excerpt: This is a test
 ---
