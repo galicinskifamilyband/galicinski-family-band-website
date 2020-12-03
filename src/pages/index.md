@@ -58,7 +58,19 @@ sections:
     subtitle: Something
     col_number: three
     is_numbered: true
-    grid_items: []
+    grid_items:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: section_grid
 template: advanced
 excerpt: This is a test
