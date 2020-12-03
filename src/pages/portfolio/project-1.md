@@ -1,5 +1,5 @@
 ---
-title: Nat
+title: Natalie MacMaster - David’s Jig by the Galicinski Family Band
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
