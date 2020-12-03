@@ -19,7 +19,7 @@ sections:
   - title: Music
     section_id: music
     content: >-
-      This is a test what do I do?
+      Put a paragraph in here about our music.
 
 
       <iframe width="560" height="315"
