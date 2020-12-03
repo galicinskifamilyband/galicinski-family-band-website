@@ -53,7 +53,7 @@ sections:
     view_all_label: Play
     view_all_url: 'https://youtu.be/'
     type: section_portfolio
-  - title: lorem-ipsum
+  - title: Music?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
