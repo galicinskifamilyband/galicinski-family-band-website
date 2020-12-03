@@ -59,7 +59,7 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: lorem-ipsum
+      - title: David's Jig
         content: >-
           ## Lorem ipsum
 
