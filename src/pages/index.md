@@ -48,7 +48,7 @@ sections:
   - title: Music
     section_id: music-portfolio
     subtitle: this is something
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 6
     view_all_label: lorem-ipsum
     view_all_url: lorem-ipsum
