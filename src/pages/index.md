@@ -45,6 +45,14 @@ sections:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: lorem-ipsum
+    type: section_portfolio
 template: advanced
 excerpt: This is a test
 ---
