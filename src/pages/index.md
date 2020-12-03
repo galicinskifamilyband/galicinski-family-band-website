@@ -45,7 +45,7 @@ sections:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Music
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: tiles
