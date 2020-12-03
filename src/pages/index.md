@@ -54,7 +54,7 @@ sections:
     view_all_url: 'https://youtu.be/'
     type: section_portfolio
   - title: Music?
-    section_id: lorem-ipsum
+    section_id: music-grid
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
