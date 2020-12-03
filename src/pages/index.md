@@ -50,7 +50,7 @@ sections:
     subtitle: this is something
     layout_style: tiles
     projects_number: 6
-    view_all_label: lorem-ipsum
+    view_all_label: Play
     view_all_url: lorem-ipsum
     type: section_portfolio
 template: advanced
