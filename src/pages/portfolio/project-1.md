@@ -3,7 +3,7 @@ title: David’s Jig
 subtitle: Natalie MacMaster - David’s Jig by the Galicinski Family Band
 date: '2019-05-10'
 thumb_image: images/Video Thumbnail - YouTube.png
-image: images/1.jpg
+image: images/curious-mint.png
 template: project
 ---
 
