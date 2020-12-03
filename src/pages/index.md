@@ -51,7 +51,7 @@ sections:
     layout_style: tiles
     projects_number: 6
     view_all_label: Play
-    view_all_url: lorem-ipsum
+    view_all_url: 'https://youtu.be/bOE2j-1u2jc'
     type: section_portfolio
 template: advanced
 excerpt: This is a test
