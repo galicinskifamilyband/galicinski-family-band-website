@@ -45,6 +45,19 @@ sections:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_hero
+  - title: Missions
+    section_id: missions
+    content: >-
+      Put a paragraph in here about our missions.
+    actions: []
+    type: section_hero
+  - title: Ministry
+    section_id: ministry
+    content: >-
+      Put a paragraph in here about our ministry.
+    actions: []
+    type: section_hero
+
 template: advanced
 excerpt: This is a test
 ---
