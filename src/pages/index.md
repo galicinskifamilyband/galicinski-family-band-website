@@ -47,7 +47,7 @@ sections:
     type: section_hero
   - title: Music
     section_id: music-portfolio
-    subtitle: lorem-ipsum
+    subtitle: this is something
     layout_style: tiles
     projects_number: 6
     view_all_label: lorem-ipsum
