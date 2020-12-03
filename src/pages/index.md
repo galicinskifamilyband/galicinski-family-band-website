@@ -46,7 +46,7 @@ sections:
     actions: []
     type: section_hero
   - title: Music
-    section_id: lorem-ipsum
+    section_id: music-portfolio
     subtitle: lorem-ipsum
     layout_style: tiles
     projects_number: 6
