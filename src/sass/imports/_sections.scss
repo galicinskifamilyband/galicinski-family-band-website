@@ -240,13 +240,16 @@
 }
 
 
-#music .block-content {
-  width: 1000px;
+
+#music .js-reframe {
+  width: 350px !important;
+  padding-top: 200px !important;
+  margin-right: 20px !important;
+  float: left;
 
 }
 
 
-#music .js-reframe {
-  width: 500px !important;
-
+#colophon {
+  clear: both;
 }
