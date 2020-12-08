@@ -16,15 +16,48 @@ sections:
       fiddle.
     actions: []
     type: section_hero
-  - title: Testimonies
-    section_id: test
-    subtitle: test
-    col_number: three
-    testimonials:
-      - author: Jason
-        content: This is great!
-        type: testimonial
-    type: section_testimonials
+  - title: Music
+    section_id: music
+    content: >-
+      Put a paragraph in here about our music.
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/bOE2j-1u2jc" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/Kk-c23H79Ow"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/04D9q4dBCsA" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/WCR5taP-th4"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/HMRdbxYjqWA" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/Q7AkiYO4geA"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    actions: []
+    type: section_hero
+  - title: Missions
+    section_id: missions
+    content: >-
+      Put a paragraph in here about our missions.
+    actions: []
+    type: section_hero
+  - title: Ministry
+    section_id: ministry
+    content: >-
+      Put a paragraph in here about our ministry.
+    actions: []
+    type: section_hero
+
 template: advanced
 excerpt: This is a test
 ---

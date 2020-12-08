@@ -1,9 +1,9 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: David’s Jig
+subtitle: Natalie MacMaster - David’s Jig by the Galicinski Family Band
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
-image: images/1.jpg
+thumb_image: images/Video Thumbnail - YouTube.png
+image: images/curious-mint.png
 template: project
 ---
 

@@ -10,7 +10,7 @@ import SectionHero from './SectionHero';
 import SectionPortfolio from './SectionPortfolio';
 import SectionPosts from './SectionPosts';
 import SectionTestimonials from './SectionTestimonials';
-import SubscribeForm from './SubscribeForm';
+import SectionMailSubscribe from './SectionMailSubscribe';
 import Layout from './Layout';
 
 export {
@@ -26,8 +26,8 @@ export {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout,
-    SubscribeForm
+    SectionMailSubscribe,
+    Layout
 };
 
 export default {
@@ -43,6 +43,6 @@ export default {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout,
-    SubscribeForm
+    SectionMailSubscribe,
+    Layout
 };
