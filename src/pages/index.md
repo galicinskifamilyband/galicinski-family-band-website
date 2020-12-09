@@ -62,16 +62,10 @@ sections:
     grid_items:
       - title: Subscribe on Email
         content: The best way to keep in touch is by joining our email list.
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            icon_class: lorem-ipsum
-            new_window: false
-            type: action
+        actions: []
         type: grid_item
         image: images/email.png
-        imageurl: https://Galicinski.Band/Subscribe
+        imageurl: 'https://Galicinski.Band/Subscribe'
     type: section_grid
 template: advanced
 excerpt: This is a test
