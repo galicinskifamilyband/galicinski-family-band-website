@@ -63,7 +63,13 @@ sections:
     grid_items:
       - title: Subscribe on Email
         content: The best way to keep in touch is by joining our email list.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
         image: images/email.png
     type: section_grid
