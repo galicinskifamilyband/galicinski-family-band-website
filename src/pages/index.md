@@ -79,7 +79,7 @@ sections:
         type: grid_item
         image: images/facebook.png
       - title: Follow us on Instagram
-        imageurl: lorem-ipsum
+        imageurl: 'https://galicinski.band/instagram'
         content: >-
           ## Lorem ipsum
 
