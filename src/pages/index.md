@@ -68,17 +68,7 @@ sections:
         image: images/mighty-mustard.png
       - title: Subscribe on YouTube
         imageurl: 'https://galicinski.band/youtube'
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: 'Help us reach our milestone of 1,000 subscribers on YouTube!'
         actions: []
         type: grid_item
         image: images/important-onion.png
