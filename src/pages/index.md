@@ -74,17 +74,7 @@ sections:
         image: images/important-onion.png
       - title: Like us Facebook
         imageurl: 'https://galicinski.band/facebook'
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: Stay in touch on Facebook.
         actions: []
         type: grid_item
         image: images/facebook.png
