@@ -74,7 +74,7 @@ sections:
         image: images/important-onion.png
       - title: Like us Facebook
         imageurl: 'https://galicinski.band/facebook'
-        content: Stay in touch on Facebook.
+        content: ''
         actions: []
         type: grid_item
         image: images/facebook.png
