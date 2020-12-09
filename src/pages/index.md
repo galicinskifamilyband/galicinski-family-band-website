@@ -21,7 +21,6 @@ sections:
     content: >-
       Put a paragraph in here about our music.
 
-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/bOE2j-1u2jc" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
@@ -56,7 +55,7 @@ sections:
     actions: []
     type: section_hero
   - title: ''
-    section_id: lorem-ipsum
+    section_id: social_media
     subtitle: ''
     col_number: two
     is_numbered: false
@@ -72,6 +71,7 @@ sections:
             type: action
         type: grid_item
         image: images/email.png
+        imageurl: https://Galicinski.Band/Subscribe
     type: section_grid
 template: advanced
 excerpt: This is a test

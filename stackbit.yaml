@@ -564,6 +564,10 @@ models:
         name: image
         label: Image
         description: The image of the grid item.
+      - type: string
+        name: imageurl
+        label: Image URL
+        description: URL of image
       - type: markdown
         name: content
         label: Content
