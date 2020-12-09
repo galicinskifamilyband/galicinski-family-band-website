@@ -17,6 +17,7 @@
     "gatsby": "^2.22.17",
     "gatsby-plugin-react-helmet": "^3.3.3",
     "gatsby-plugin-sass": "^2.7.0",
+    "gatsby-remark-embedder": "^4.1.0",
     "gatsby-source-filesystem": "2.3.10",
     "gatsby-source-instagram": "^0.9.0",
     "gatsby-transformer-remark": "2.8.14",

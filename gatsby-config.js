@@ -7,6 +7,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
+        `gatsby-plugin-instagram-embed`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -33,6 +34,17 @@ module.exports = {
             resolve: `gatsby-source-instagram`,
             options: {
               username: `10959497628`,
+            },
+        },
+        {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                'Instagram'
+              },
             },
         },
     ]
