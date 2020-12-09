@@ -18,7 +18,7 @@ sections:
     type: section_hero
   - title: Music
     section_id: music
-    content: >-
+    content: >
       Put a paragraph in here about our music.
 
       <iframe width="560" height="315"
@@ -42,9 +42,6 @@ sections:
       width="560" height="315" src="https://www.youtube.com/embed/Q7AkiYO4geA"
       frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      https://instagram.com/galicinskifamilyband
-
     actions: []
     type: section_hero
   - title: ''
