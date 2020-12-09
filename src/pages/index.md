@@ -77,7 +77,10 @@ sections:
     type: section_grid
   - title: Missions
     section_id: missions
-    content: Put a paragraph in here about our missions.
+    content: |-
+      Put a paragraph in here about our missions.
+
+      https://instagram.com/galicinskifamilyband
     actions: []
     type: section_hero
   - title: Ministry
