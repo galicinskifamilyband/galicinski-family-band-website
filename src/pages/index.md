@@ -70,12 +70,6 @@ sections:
             icon_class: lorem-ipsum
             new_window: false
             type: action
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            icon_class: lorem-ipsum
-            new_window: false
-            type: action
         type: grid_item
         image: images/email.png
     type: section_grid
