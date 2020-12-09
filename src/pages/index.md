@@ -47,17 +47,21 @@ sections:
     type: section_hero
   - title: Missions
     section_id: missions
-    content: >-
-      Put a paragraph in here about our missions.
+    content: Put a paragraph in here about our missions.
     actions: []
     type: section_hero
   - title: Ministry
     section_id: ministry
-    content: >-
-      Put a paragraph in here about our ministry.
+    content: Put a paragraph in here about our ministry.
     actions: []
     type: section_hero
-
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
 template: advanced
 excerpt: This is a test
 ---
