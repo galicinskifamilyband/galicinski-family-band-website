@@ -16,6 +16,34 @@ sections:
       fiddle.
     actions: []
     type: section_hero
+  - title: Music
+    section_id: music
+    content: >-
+      Put a paragraph in here about our music.
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/bOE2j-1u2jc" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/Kk-c23H79Ow"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/04D9q4dBCsA" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/WCR5taP-th4"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/HMRdbxYjqWA" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
+      width="560" height="315" src="https://www.youtube.com/embed/Q7AkiYO4geA"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    actions: []
+    type: section_hero
   - title: ''
     section_id: social_media
     subtitle: ''
@@ -47,34 +75,6 @@ sections:
         type: grid_item
         image: images/instagram.png
     type: section_grid
-  - title: Music
-    section_id: music
-    content: >-
-      Put a paragraph in here about our music.
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/bOE2j-1u2jc" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
-      width="560" height="315" src="https://www.youtube.com/embed/Kk-c23H79Ow"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/04D9q4dBCsA" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
-      width="560" height="315" src="https://www.youtube.com/embed/WCR5taP-th4"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/HMRdbxYjqWA" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe
-      width="560" height="315" src="https://www.youtube.com/embed/Q7AkiYO4geA"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    actions: []
-    type: section_hero
   - title: Missions
     section_id: missions
     content: Put a paragraph in here about our missions.
