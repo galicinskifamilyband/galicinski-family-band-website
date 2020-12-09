@@ -28,13 +28,6 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        },
-        {
-            resolve: `gatsby-plugin-mailchimp`,
-            options: {
-                endpoint: `https://facebook.us17.list-manage.com/subscribe/post?u=3a29e6e8f4d31c0e798d26c9f&amp;id=010879e468`,
-                timeout: 3500,
-            }
         }
     ]
 };

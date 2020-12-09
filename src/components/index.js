@@ -10,7 +10,6 @@ import SectionHero from './SectionHero';
 import SectionPortfolio from './SectionPortfolio';
 import SectionPosts from './SectionPosts';
 import SectionTestimonials from './SectionTestimonials';
-import SectionMailSubscribe from './SectionMailSubscribe';
 import Layout from './Layout';
 
 export {
@@ -26,7 +25,6 @@ export {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    SectionMailSubscribe,
     Layout
 };
 
@@ -43,6 +41,5 @@ export default {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    SectionMailSubscribe,
     Layout
 };
