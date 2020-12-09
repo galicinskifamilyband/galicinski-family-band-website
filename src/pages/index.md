@@ -57,7 +57,7 @@ sections:
     type: section_hero
   - title: ''
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     col_number: two
     is_numbered: false
     grid_items:
