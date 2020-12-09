@@ -44,7 +44,7 @@ module.exports = {
               ],
               services: {
                 Instagram: {
-                  accessToken: env.process.INSTAGRAM_ACCESS_TOKEN,
+                  accessToken: '1156768628125948|8462bfb4faeab28585d6c9552ec21f5f',
                 },
               }
             }
