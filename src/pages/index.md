@@ -78,7 +78,7 @@ sections:
         actions: []
         type: grid_item
         image: images/facebook.png
-      - title: lorem-ipsum
+      - title: Follow us on Instragram
         imageurl: lorem-ipsum
         content: >-
           ## Lorem ipsum
