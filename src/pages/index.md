@@ -81,6 +81,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/important-onion.png
     type: section_grid
 template: advanced
 excerpt: This is a test
