@@ -65,6 +65,7 @@ sections:
         actions: []
         type: grid_item
         imageurl: 'https://Galicinski.Band/Subscribe'
+        image: images/mighty-mustard.png
       - title: Subscribe on YouTube
         imageurl: lorem-ipsum
         content: >-
