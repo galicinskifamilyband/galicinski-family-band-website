@@ -16,6 +16,37 @@ sections:
       fiddle.
     actions: []
     type: section_hero
+  - title: ''
+    section_id: social_media
+    subtitle: ''
+    col_number: two
+    is_numbered: false
+    grid_items:
+      - title: Subscribe on Email
+        content: The best way to keep in touch is by joining our email list.
+        actions: []
+        type: grid_item
+        imageurl: 'https://Galicinski.Band/Subscribe'
+        image: images/mighty-mustard.png
+      - title: Subscribe on YouTube
+        imageurl: 'https://galicinski.band/youtube'
+        content: 'Help us reach our milestone of 1,000 subscribers on YouTube!'
+        actions: []
+        type: grid_item
+        image: images/important-onion.png
+      - title: Like us Facebook
+        imageurl: 'https://galicinski.band/facebook'
+        content: ''
+        actions: []
+        type: grid_item
+        image: images/facebook.png
+      - title: Follow us on Instagram
+        imageurl: 'https://galicinski.band/instagram'
+        content: ''
+        actions: []
+        type: grid_item
+        image: images/instagram.png
+    type: section_grid
   - title: Music
     section_id: music
     content: >-
@@ -54,37 +85,6 @@ sections:
     content: Put a paragraph in here about our ministry.
     actions: []
     type: section_hero
-  - title: ''
-    section_id: social_media
-    subtitle: ''
-    col_number: two
-    is_numbered: false
-    grid_items:
-      - title: Subscribe on Email
-        content: The best way to keep in touch is by joining our email list.
-        actions: []
-        type: grid_item
-        imageurl: 'https://Galicinski.Band/Subscribe'
-        image: images/mighty-mustard.png
-      - title: Subscribe on YouTube
-        imageurl: 'https://galicinski.band/youtube'
-        content: 'Help us reach our milestone of 1,000 subscribers on YouTube!'
-        actions: []
-        type: grid_item
-        image: images/important-onion.png
-      - title: Like us Facebook
-        imageurl: 'https://galicinski.band/facebook'
-        content: ''
-        actions: []
-        type: grid_item
-        image: images/facebook.png
-      - title: Follow us on Instagram
-        imageurl: 'https://galicinski.band/instagram'
-        content: ''
-        actions: []
-        type: grid_item
-        image: images/instagram.png
-    type: section_grid
 template: advanced
 excerpt: This is a test
 ---
