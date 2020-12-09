@@ -55,7 +55,7 @@ sections:
     content: Put a paragraph in here about our ministry.
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: two
