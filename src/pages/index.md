@@ -64,7 +64,6 @@ sections:
         content: The best way to keep in touch is by joining our email list.
         actions: []
         type: grid_item
-        image: images/email.png
         imageurl: 'https://Galicinski.Band/Subscribe'
       - title: Subscribe on YouTube
         imageurl: lorem-ipsum
