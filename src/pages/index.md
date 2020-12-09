@@ -61,7 +61,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Subscribe
+      - title: Subscribe on Email
         content: >-
           ## Lorem ipsum
 
