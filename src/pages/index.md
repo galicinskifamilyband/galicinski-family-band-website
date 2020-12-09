@@ -66,7 +66,7 @@ sections:
         type: grid_item
         image: images/email.png
         imageurl: 'https://Galicinski.Band/Subscribe'
-      - title: Sub
+      - title: Subscribe on YouTube
         imageurl: lorem-ipsum
         content: >-
           ## Lorem ipsum
