@@ -62,17 +62,7 @@ sections:
     is_numbered: false
     grid_items:
       - title: Subscribe on Email
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: The best way to keep in touch is by joining our email list.
         actions: []
         type: grid_item
         image: images/email.png
