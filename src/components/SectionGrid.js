@@ -30,11 +30,15 @@ export default class SectionGrid extends React.Component {
                       )}
                       {_.get(item, 'image', null) && (
                       <div className="grid-item-image">
-                        <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'title', null)} />
+                        <a href={withPrefix(_.get(item, 'imageurl', null))} target='_blank'>
+                          <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'title', null)} />
+                        </a>
                       </div>
                       )}
                       {_.get(item, 'title', null) && (
-                      <h3 className="grid-item-title">{_.get(item, 'title', null)}</h3>
+                       <a href={withPrefix(_.get(item, 'imageurl', null))} target='_blank'>
+                          <h3 className="grid-item-title">{_.get(item, 'title', null)}</h3>
+                       </a>
                       )}
                       {_.get(item, 'content', null) && (
                       <div className="grid-item-content">
