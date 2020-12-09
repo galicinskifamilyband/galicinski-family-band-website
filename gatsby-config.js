@@ -1,5 +1,14 @@
 const siteMetadata = require('./site-metadata.json')
 
+const GatsbyRemarkEmbedderOptions = {
+  services: {
+    Instagram: {
+      accessToken: env.process.INSTAGRAM_ACCESS_TOKEN,
+    },
+  },
+};
+
+
 module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
