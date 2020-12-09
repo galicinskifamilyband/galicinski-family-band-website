@@ -61,7 +61,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: lorem-ipsum
+      - title: Subscribe
         content: >-
           ## Lorem ipsum
 
