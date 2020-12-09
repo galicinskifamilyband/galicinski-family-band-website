@@ -72,7 +72,7 @@ sections:
         actions: []
         type: grid_item
         image: images/important-onion.png
-      - title: Like us Facebook
+      - title: Follow us Facebook
         imageurl: lorem-ipsum
         content: >-
           ## Lorem ipsum
