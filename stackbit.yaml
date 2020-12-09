@@ -521,6 +521,42 @@ models:
           type: model
           models:
             - testimonial
+  section_mailchimp:
+    type: object
+    label: MailChimp Section
+    extends:
+      - section_hero
+  action:
+    type: object
+    label: Action
+    labelField: label
+    fields:
+      - type: string
+        name: label
+        label: Label
+        required: true
+      - type: string
+        name: url
+        label: URL
+        required: true
+        widget: url
+      - type: enum
+        name: style
+        label: Style
+        options:
+          - link
+          - button
+          - icon
+        default: link
+        required: true
+      - type: string
+        name: icon_class
+        label: Icon
+        description: 'Font Awesome icon class name, used only when style is "icon".'
+      - type: boolean
+        name: new_window
+        label: Open in new tab/window
+        default: false
   grid_item:
     type: object
     label: Grid Item
