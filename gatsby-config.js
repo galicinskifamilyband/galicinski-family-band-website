@@ -28,6 +28,12 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        {
+            resolve: `gatsby-source-instagram`,
+            options: {
+              username: `10959497628`,
+            },
+        },
     ]
 };
