@@ -156,7 +156,6 @@ models:
             - section_portfolio
             - section_posts
             - section_testimonials
-            - section_mailchimp
   blog:
     type: page
     urlPath: /blog
@@ -521,11 +520,6 @@ models:
           type: model
           models:
             - testimonial
-  section_mailchimp:
-    type: object
-    label: MailChimp Section
-    extends:
-      - section_hero
   action:
     type: object
     label: Action
