@@ -93,6 +93,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/instagram.png
     type: section_grid
 template: advanced
 excerpt: This is a test
