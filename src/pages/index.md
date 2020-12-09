@@ -59,7 +59,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Subscribe on Email
         content: >-
