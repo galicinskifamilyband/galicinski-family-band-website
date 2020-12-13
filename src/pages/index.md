@@ -9,11 +9,24 @@ sections:
     actions: []
   - title: Galicinski Family Band
     section_id: intro
-    content: >-
-      Celebrate a classic Christmas with the Galicinski family as they take you
-      on a wonderful journey through all the Christmas songs that you love best,
-      crafted into fresh and compelling arrangements with a twist of Cape Breton
-      fiddle.
+    content: >
+      MUSIC.  MISSIONS. MINISTRY.
+
+
+      Music. Missions. Ministry.  God has impressed these three words on our
+      hearts. To use the beauty and power of music to point people to the
+      kingdom of God.   From the sweet soft soprano of our 7 year old to the
+      skillful playing of our 17 year old, may God receive glory.
+
+
+      Our hope is to inspire YOU to consider YOUR family’s mission. And for you
+      to prayerfully pursue those goals so that this next generation of Christ
+      followers will come alongside God and impact the world for Jesus, 
+
+
+      His ultimate goal. His sacrificed life. 
+
+      The Ultimate gift. My surrendered life.
     actions: []
     type: section_hero
   - title: Music
