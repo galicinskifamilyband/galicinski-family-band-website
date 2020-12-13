@@ -9,11 +9,27 @@ sections:
     actions: []
   - title: Galicinski Family Band
     section_id: intro
-    content: >-
-      Celebrate a classic Christmas with the Galicinski family as they take you
-      on a wonderful journey through all the Christmas songs that you love best,
-      crafted into fresh and compelling arrangements with a twist of Cape Breton
-      fiddle.
+    content: >
+      MUSIC.  MISSIONS. MINISTRY.
+
+
+      God has impressed these three words on our hearts. 
+
+
+      To use the beauty and power of music to point people to the kingdom of
+      God.   From the sweet soft soprano of our 7 year old to the skillful
+      playing of our 17 year old, may God receive glory.
+
+
+      Our hope is to inspire YOU to consider YOUR family’s mission. And for you
+      to prayerfully pursue those goals so that this next generation of Christ
+      followers will come alongside God and impact the world for Jesus, 
+
+
+      His ultimate goal. His sacrificed life. 
+
+
+      The Ultimate gift. My surrendered life.
     actions: []
     type: section_hero
   - title: Music
@@ -77,15 +93,19 @@ sections:
     type: section_grid
   - title: Missions
     section_id: missions
-    content: |-
-      Put a paragraph in here about our missions.
+    content: >+
+      In 2016, our family began supporting a work of God in Zambia, after
+      hearing about it from the Brinkman Adventures ministry
+      https://brinkmanadventures.com/ . We founded a ministry called "Reaching
+      the Heart of Zambia" (www.reachingtheheartofzambia.org) to minister to
+      impoverished children and adults.  
 
-      https://instagram.com/galicinskifamilyband
-    actions: []
-    type: section_hero
-  - title: Ministry
-    section_id: ministry
-    content: Put a paragraph in here about our ministry.
+
+      It is a Gospel-focused ministry that loves and gives hope to abandoned
+      children in the heart of Zambia by empowering the next generation to break
+      the chains of poverty.  We provide schooling, food, water, the Jesus Film,
+      soccer outreach programs and young women's bible studies.
+
     actions: []
     type: section_hero
 template: advanced
