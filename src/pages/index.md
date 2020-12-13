@@ -9,14 +9,16 @@ sections:
     actions: []
   - title: Galicinski Family Band
     section_id: intro
-    content: >
+    content: >-
       MUSIC.  MISSIONS. MINISTRY.
 
 
-      Music. Missions. Ministry.  God has impressed these three words on our
-      hearts. To use the beauty and power of music to point people to the
-      kingdom of God.   From the sweet soft soprano of our 7 year old to the
-      skillful playing of our 17 year old, may God receive glory.
+      God has impressed these three words on our hearts. 
+
+
+      To use the beauty and power of music to point people to the kingdom of
+      God.   From the sweet soft soprano of our 7 year old to the skillful
+      playing of our 17 year old, may God receive glory.
 
 
       Our hope is to inspire YOU to consider YOUR family’s mission. And for you
@@ -26,7 +28,10 @@ sections:
 
       His ultimate goal. His sacrificed life. 
 
-      The Ultimate gift. My surrendered life.
+
+      **The Ultimate gift. My surrendered life.
+
+      **
     actions: []
     type: section_hero
   - title: Music
