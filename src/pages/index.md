@@ -9,7 +9,7 @@ sections:
     actions: []
   - title: Galicinski Family Band
     section_id: intro
-    content: >-
+    content: >
       MUSIC.  MISSIONS. MINISTRY.
 
 
@@ -29,9 +29,7 @@ sections:
       His ultimate goal. His sacrificed life. 
 
 
-      **The Ultimate gift. My surrendered life.
-
-      **
+      The Ultimate gift. My surrendered life.
     actions: []
     type: section_hero
   - title: Music
