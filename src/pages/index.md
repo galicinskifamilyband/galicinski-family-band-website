@@ -108,11 +108,6 @@ sections:
 
     actions: []
     type: section_hero
-  - title: Ministry
-    section_id: ministry
-    content: Put a paragraph in here about our ministry.
-    actions: []
-    type: section_hero
 template: advanced
 excerpt: This is a test
 ---
