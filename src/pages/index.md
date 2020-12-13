@@ -93,7 +93,7 @@ sections:
     type: section_grid
   - title: Missions
     section_id: missions
-    content: >-
+    content: >+
       In 2016, our family began supporting a work of God in Zambia, after
       hearing about it from the Brinkman Adventures ministry
       https://brinkmanadventures.com/ . We founded a ministry called "Reaching
@@ -106,9 +106,6 @@ sections:
       the chains of poverty.  We provide schooling, food, water, the Jesus Film,
       soccer outreach programs and young women's bible studies.
 
-
-
-      https://instagram.com/galicinskifamilyband
     actions: []
     type: section_hero
   - title: Ministry
