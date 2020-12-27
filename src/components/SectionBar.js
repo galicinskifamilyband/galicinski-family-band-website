@@ -10,9 +10,9 @@ export default class SectionBar extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className="action_bar">
 	            <div className="inner">
-					<a className="bar_button_desktop" href={_.get(section, 'action_url', null)}><img className="bar_button_desktop" src={_.get(section, 'action_button', null)} /></a>
+					<a className="bar_button_desktop" href={_.get(section, 'action_url', null)} target={_.get(section, 'action_target', null)}><img className="bar_button_desktop" src={_.get(section, 'action_button', null)} /></a>
 					<div className="bar_left">
-						<img className="bar_icon" src={_.get(section, 'title_icon', null)} />
+						<a href={_.get(section, 'action_url', null)} target={_.get(section, 'action_target', null)}><img className="bar_icon" src={_.get(section, 'title_icon', null)} /></a>
 						<h1>{_.get(section, 'title', null)}</h1>
 						<p>{_.get(section, 'description', null)}</p>
 					</div>
