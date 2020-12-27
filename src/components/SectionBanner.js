@@ -8,9 +8,9 @@ export default class SectionBanner extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
-            <div id={_.get(section, 'section_id', null)} className="block">
+            <section id={_.get(section, 'section_id', null)} className="block">
               <img src={_.get(section, 'imageurl', null)} />
-            </div>
+            </section>
         );
     }
 }

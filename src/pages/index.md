@@ -2,10 +2,11 @@
 title: Galicinski Family Band
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_banner
+  - type: section_banner
+    section_id: band-hero-banner
     imageurl: /images/Band-Hero-Banner.png
-  - title: 
+  - type: section_hero
+    title:
     section_id: intro
     content: >
       MUSIC.  MISSIONS. MINISTRY.
@@ -29,7 +30,13 @@ sections:
 
       The Ultimate gift. My surrendered life.
     actions: []
-    type: section_hero
+  - type: section_bar
+    section_id: subscribe-bar
+    title: Keep in Touch
+    description: The best way to keep in touch is to join our email list.
+    title_icon: /images/Email-Icon.png
+    action_button: /images/Subscribe-Action.png
+    action_url: https://galicinski.band/subscribe
   - title: Music
     section_id: music
     content: >

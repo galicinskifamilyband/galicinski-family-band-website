@@ -217,6 +217,23 @@
       font-size: 2.22222em;
     }
   }
+
+}
+
+@media only screen and (max-width: 820px) {
+  .action_bar {
+    .bar_icon {
+      display: none !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 895px) {
+  .action_bar {
+    .bar_button {
+      margin-right: 0 !important;
+    }
+  }
 }
 
 
@@ -239,4 +256,39 @@
 
 #social_media {
   clear: both;
+}
+
+
+
+.action_bar {
+  background-color: #D8D8D8;
+
+  .inner {
+    padding: 1.5em;
+  }
+
+  .bar_icon {
+    float: left;
+    margin-right: 1em;
+  }
+
+
+  h1 {
+    color: #1263A8 !important;
+    margin: 0;
+  }
+
+  p {
+    color: #3E3E3E !important;
+    margin: 0;
+  }
+
+  .bar_button {
+    float: right;
+    margin-top: 0.15em;
+    margin-right: 1.5em;
+    border: 0 !important;
+    transition: none !important;
+    color: none !important;
+  }
 }

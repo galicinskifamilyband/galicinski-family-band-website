@@ -4,6 +4,7 @@ import Footer from './Footer';
 import FormField from './FormField';
 import Header from './Header';
 import SectionBanner from './SectionBanner';
+import SectionBar from './SectionBar';
 import SectionContent from './SectionContent';
 import SectionForm from './SectionForm';
 import SectionGrid from './SectionGrid';
@@ -20,6 +21,7 @@ export {
     FormField,
     Header,
     SectionBanner,
+    SectionBar,
     SectionContent,
     SectionForm,
     SectionGrid,
@@ -37,6 +39,7 @@ export default {
     FormField,
     Header,
     SectionBanner,
+    SectionBar,
     SectionContent,
     SectionForm,
     SectionGrid,

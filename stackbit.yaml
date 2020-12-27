@@ -154,6 +154,7 @@ models:
             - section_grid
             - section_hero
             - section_banner
+            - section_bar
             - section_portfolio
             - section_posts
             - section_testimonials
@@ -427,6 +428,28 @@ models:
         name: imageurl
         label: Image URL
         description: URL of banner
+  section_bar:
+    type: object
+    label: Action Bar Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: description
+        label: Description
+        description: Enter a description
+      - type: string
+        name: title_icon
+        label: Bar Icon URL
+        description: URL of Icon
+      - type: string
+        name: action_button
+        label: Buton Image URL
+        description: URL of Action Button
+      - type: string
+        name: action_url
+        label: Buton Link 
+        description: Where will the button link to?
   section_hero:
     type: object
     label: Hero Section
