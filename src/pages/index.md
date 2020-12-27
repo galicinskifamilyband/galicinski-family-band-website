@@ -37,10 +37,15 @@ sections:
     title_icon: /images/Email-Icon.png
     action_button: /images/Subscribe-Action.png
     action_url: https://galicinski.band/subscribe
-  - title: Music
-    section_id: music
+  - title: Our Music
+    section_id: youtube-videos
     content: >
-      Put a paragraph in here about our music.
+      Celebrate a classic Christmas with the Galicinski family as they take you on a wonderful journey through all the Christmas songs that you love best, crafted into fresh and compelling arrangements with a twist of Cape Breton fiddle.
+      <br><br>
+      This performance was live-streamed at First Baptist Church of Panama City, FL on December 13, 2020 at 5pm.  Grad a cup of hot cocco, pull up a blanket and celebrate Christmas with us!
+      <br><br>
+      <a className="section_image" href="https://fb.watch/2mzqf5AySN/"><img src="/images/ChristmasShow-Play.png" /></a>
+      <br><br>
 
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/bOE2j-1u2jc" frameborder="0"
@@ -96,6 +101,13 @@ sections:
         type: grid_item
         image: images/instagram.png
     type: section_grid
+  - type: section_bar
+    section_id: subscribe-bar
+    title: Book Us for an Event
+    description: Have a special event coming up?  We’d love make it even more special!
+    title_icon: /images/Event-Icon.png
+    action_button: /images/Book-Us-Action.png
+    action_url: mailto:galicinskifamilyband@gmail.com?subject=Booking for an event
   - title: Missions
     section_id: missions
     content: >+
