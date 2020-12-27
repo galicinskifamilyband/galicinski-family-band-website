@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Book th
+          - Book the Band
         is_required: true
       - input_type: textarea
         name: message
