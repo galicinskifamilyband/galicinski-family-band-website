@@ -30,7 +30,7 @@ sections:
           - Wedding
           - Christmas Show
           - Music Video
-          - 'Arranging '
+          - Arranging or Composing
         is_required: true
       - input_type: textarea
         name: message
