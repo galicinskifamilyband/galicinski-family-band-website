@@ -28,6 +28,7 @@ sections:
         options:
           - Book the Band for an Event
           - lorem-ipsum
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
