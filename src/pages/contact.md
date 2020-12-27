@@ -25,8 +25,7 @@ sections:
         name: subject
         label: Subject
         default_value: Please select
-        options:
-          - Other
+        options: []
       - input_type: textarea
         name: message
         label: Message
