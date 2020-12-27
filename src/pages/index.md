@@ -44,13 +44,13 @@ sections:
       <br><br>
       This performance was live-streamed at First Baptist Church of Panama City, FL on December 13, 2020 at 5pm.  Grad a cup of hot cocco, pull up a blanket and celebrate Christmas with us!
       <br><br>
-      <a className="section_image" href="https://fb.watch/2mzqf5AySN/"><img src="/images/ChristmasShow-Play.png" /></a>
+      <a className="section_image" href="https://fb.watch/2mzqf5AySN/" target="_blank"><img src="/images/ChristmasShow-Play.png" /></a>
       <br><br><br>
-      <a className="section_image" href="https://galicinski.band/youtube"><img src="/images/Subscribe-Button.png" /></a>
+      <a className="section_image" href="https://galicinski.band/youtube" target="_blank"><img src="/images/Subscribe-Button.png" /></a>
       <br><br>
       Would you like to hear some more of our music?  Below is some of the highlights from our YouTube Channel.
       <b>Help us reach out milestore of 1,000 subscribers!
-      Please <a href="https://galicinski.band/youtube">subscribe</a> to our YouTube Channel, while you’re checking out our videos.</b>
+      Please <a href="https://galicinski.band/youtube" target="_blank">subscribe</a> to our YouTube Channel, while you’re checking out our videos.</b>
       <br><br>
 
       <iframe width="560" height="315"
@@ -110,12 +110,12 @@ sections:
       </ul>
 
 
-      <p>Our goal is for all 250 children at the school to be matched with a sponsor, so that our programs have the funding needed to grow.  Would you pray about sponsoring a child for $38/month or giving a gift to support this work?  Go to <a href="http://www.reachingtheheartofzambia.org/giving-tuesday-sponsorship-opportunity/">ReachingTheHeartOfZambia.org</a> for more information.</p>
+      <p>Our goal is for all 250 children at the school to be matched with a sponsor, so that our programs have the funding needed to grow.  Would you pray about sponsoring a child for $38/month or giving a gift to support this work?  Go to <a href="http://www.reachingtheheartofzambia.org/giving-tuesday-sponsorship-opportunity/" target="_blank">ReachingTheHeartOfZambia.org</a> for more information.</p>
 
-      <a className="section_image" href="http://www.reachingtheheartofzambia.org/giving-tuesday-sponsorship-opportunity/"><img src="/images/Sponsor-a-Child.png" /></a>      
+      <a className="section_image" href="http://www.reachingtheheartofzambia.org/giving-tuesday-sponsorship-opportunity/" target="_blank"><img src="/images/Sponsor-a-Child.png" /></a>      
       
       <br><br><br><br>
-      <a className="section_image" href="https://galicinski.band/facebook"><img src="/images/Social-Button.png" /></a>
+      <a className="section_image" href="https://galicinski.band/facebook" target="_blank"><img src="/images/Social-Button.png" /></a>
 
       
 
