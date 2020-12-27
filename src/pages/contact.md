@@ -30,7 +30,7 @@ sections:
           - Wedding
           - Christmas Show
           - Music Video
-          - lorem-ipsum
+          - 'Arranging '
         is_required: true
       - input_type: textarea
         name: message
