@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Booking the Band
-          - Sponsorship
+          - ''
           - Other
       - input_type: textarea
         name: message
