@@ -28,7 +28,7 @@ sections:
         options:
           - Performing at an Event
           - Wedding
-          - lorem-ipsum
+          - Christmas Show
           - lorem-ipsum
           - lorem-ipsum
         is_required: true
