@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [galicinskifamilyband@gmail.com](mailto:galicinskifamilyband@gmail.com).
+      Thank you so much for your interest our family band.  We want to serve you
+      in any way we can.  Please fill the contact form below and we'll be in
+      touch soon!
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -21,11 +21,18 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: text
+      - input_type: select
         name: subject
         label: Subject
         default_value: Please select
-        options: []
+        options:
+          - Performing at an Event
+          - Wedding
+          - Christmas Show
+          - Music Video
+          - Arranging or Composing
+          - Collaboration
+          - Other...
         is_required: true
       - input_type: textarea
         name: message
@@ -36,6 +43,7 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
+        is_required: true
     submit_label: Send Message
 template: advanced
 ---
