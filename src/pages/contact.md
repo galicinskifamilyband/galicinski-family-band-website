@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Book the Band for an Event
-          - Book a Vio
+          - Book a Viol
           - lorem-ipsum
         is_required: true
       - input_type: textarea
