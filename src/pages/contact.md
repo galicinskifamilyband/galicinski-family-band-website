@@ -31,7 +31,7 @@ sections:
           - Christmas Show
           - Music Video
           - Arranging or Composing
-          - Other...
+          - Collaboration
           - lorem-ipsum
         is_required: true
       - input_type: textarea
