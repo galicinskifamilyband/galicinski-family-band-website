@@ -12,17 +12,16 @@ sections:
       MUSIC.  MISSIONS. MINISTRY.
 
 
-      God has impressed these three words on their hearts. 
+      The Galicinski Family is a mission-minded family that is seeking to
+      create, compose, arrange and play awe-inspiring music that captures your
+      imagination and leads you closer to the beauty of God.  With their deep
+      love for the people of Zambia, they seek to bring hope those who have none
+      through their mission [Reaching the Heart of
+      Zambia](http://www.reachingtheheartofzambia.org).
 
 
-      To use the beauty and power of music to reach deep into your heart and
-      inspire you to seek first the Kingdom of God.  
-
-
-      The Galicinski Family takes their love for Scottish Fiddle and mashes it
-      up with a twist of rock and dance. A large family of 12 living just
-      outside of Nashville, TN invites you to join them on their musical journey
-      as they play and create new music.
+      A large family of 12 living just outside of Nashville, TN invites you to
+      join them on their musical journey as they play and create new music. 
 
 
       "Our hope is to inspire ***you*** to consider ***your*** family’s mission.
