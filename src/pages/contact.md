@@ -25,7 +25,8 @@ sections:
         name: subject
         label: Subject
         default_value: Please select
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
