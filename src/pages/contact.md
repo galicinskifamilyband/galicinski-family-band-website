@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Performfor an Event
+          - Performing for an Event
           - Book an Individual for an Event
           - lorem-ipsum
         is_required: true
