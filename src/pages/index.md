@@ -9,26 +9,26 @@ sections:
     title: null
     section_id: intro
     content: >
+      MUSIC.  MISSIONS. MINISTRY.
+
+
+      God has impressed these three words on their hearts. 
+
+
+      To use the beauty and power of music to reach deep into your heart and
+      inspire you to seek first the Kingdom of God.  
+
+
       The Galicinski Family takes their love for Scottish Fiddle and mashes it
       up with a twist of rock and dance. A large family of 12 living just
       outside of Nashville, TN invites you to join them on their musical journey
       as they play and create new music.
 
 
-      MUSIC.  MISSIONS. MINISTRY.
-
-
-      God has impressed these three words on our hearts. 
-
-
-      To use the beauty and power of music to point people to the kingdom of
-      God.   From the sweet soft soprano of our 7 year old to the skillful
-      playing of our 17 year old, may God receive glory.
-
-
-      Our hope is to inspire YOU to consider YOUR family’s mission. And for you
-      to prayerfully pursue those goals so that this next generation of Christ
-      followers will come alongside God and impact the world for Jesus, 
+      "Our hope is to inspire ***you*** to consider ***your*** family’s mission.
+      And for you to prayerfully pursue those goals so that this next generation
+      of Christ followers will come alongside God and impact the world for
+      Jesus."
 
 
       His ultimate goal. His sacrificed life. 
