@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Performing at an Event
-          - Book an Individual for an Event
+          - Wedding
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
