@@ -27,6 +27,7 @@ sections:
         default_value: Please select
         options:
           - Book the Band for an Event
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
