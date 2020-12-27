@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Book an Event
+          - 'Book '
         is_required: true
       - input_type: textarea
         name: message
