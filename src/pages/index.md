@@ -29,12 +29,6 @@ sections:
       And for you to prayerfully pursue those goals so that this next generation
       of Christ followers will come alongside God and impact the world for
       Jesus."
-
-
-      His ultimate goal. His sacrificed life. 
-
-
-      The Ultimate gift. My surrendered life.
     actions: []
   - type: section_bar
     section_id: subscribe-bar
