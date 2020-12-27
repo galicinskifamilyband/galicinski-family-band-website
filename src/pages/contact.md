@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'Book '
+          - Book th
         is_required: true
       - input_type: textarea
         name: message
