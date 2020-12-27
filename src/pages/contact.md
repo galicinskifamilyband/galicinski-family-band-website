@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - lorem-ipsum
+          - Book an Event
         is_required: true
       - input_type: textarea
         name: message
