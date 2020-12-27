@@ -32,7 +32,7 @@ sections:
           - Music Video
           - Arranging or Composing
           - Collaboration
-          - lorem-ipsum
+          - Other...
         is_required: true
       - input_type: textarea
         name: message
