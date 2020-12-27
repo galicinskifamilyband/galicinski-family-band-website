@@ -448,6 +448,10 @@ models:
         name: action_url
         label: Buton Link 
         description: Where will the button link to?
+      - type: string
+        name: action_target
+        label: Link Target
+        description: _black to open in new window, leave empty to stay on current window
   section_image:
     type: object
     label: Full Section Image

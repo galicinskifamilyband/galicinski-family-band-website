@@ -36,6 +36,7 @@ sections:
     title_icon: /images/Email-Icon.png
     action_button: /images/Subscribe-Action.png
     action_url: 'https://galicinski.band/subscribe'
+    action_target: '_blank'
   - title: Our Music
     section_id: youtube-videos
     content: >
@@ -86,7 +87,8 @@ sections:
     description: Have a special event coming up?  We’d love make it even more special!
     title_icon: /images/Event-Icon.png
     action_button: /images/Book-Us-Action.png
-    action_url: 'mailto:galicinskifamilyband@gmail.com?subject=Booking for an event'
+    action_url: '/contact'
+    action_target: '_blank'
   - title: Our Mission
     section_id: missions
     content: >
