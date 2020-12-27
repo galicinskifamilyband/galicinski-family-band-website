@@ -425,10 +425,9 @@ models:
     extends:
       - section
     fields:
-      - type: string
+      - type: image
         name: imageurl
         label: Image URL
-        description: URL of banner
   section_bar:
     type: object
     label: Action Bar Section
@@ -439,14 +438,12 @@ models:
         name: description
         label: Description
         description: Enter a description
-      - type: string
+      - type: image
         name: title_icon
         label: Bar Icon URL
-        description: URL of Icon
-      - type: string
+      - type: image
         name: action_button
         label: Buton Image URL
-        description: URL of Action Button
       - type: string
         name: action_url
         label: Buton Link 
@@ -457,10 +454,9 @@ models:
     extends:
       - section
     fields:
-      - type: string
+      - type: image
         name: image_url
         label: Image URL
-        description: URL of Image
       - type: string
         name: action_url
         label: Image Link 
