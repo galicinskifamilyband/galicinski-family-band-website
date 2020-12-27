@@ -29,7 +29,7 @@ sections:
           - Performing at an Event
           - Wedding
           - Christmas Show
-          - Music Videos
+          - Music Video
           - lorem-ipsum
         is_required: true
       - input_type: textarea
