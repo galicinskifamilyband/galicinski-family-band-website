@@ -3,11 +3,9 @@ title: Galicinski Family Band
 hide_title: true
 sections:
   - section_id: hero
-    type: section_hero
-    title: ''
-    content: ''
-    actions: []
-  - title: Galicinski Family Band
+    type: section_banner
+    imageurl: /images/Band-Hero-Banner.png
+  - title: 
     section_id: intro
     content: >
       MUSIC.  MISSIONS. MINISTRY.

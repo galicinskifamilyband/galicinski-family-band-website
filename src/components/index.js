@@ -3,6 +3,7 @@ import CtaButtons from './CtaButtons';
 import Footer from './Footer';
 import FormField from './FormField';
 import Header from './Header';
+import SectionBanner from './SectionBanner';
 import SectionContent from './SectionContent';
 import SectionForm from './SectionForm';
 import SectionGrid from './SectionGrid';
@@ -18,6 +19,7 @@ export {
     Footer,
     FormField,
     Header,
+    SectionBanner,
     SectionContent,
     SectionForm,
     SectionGrid,
@@ -34,6 +36,7 @@ export default {
     Footer,
     FormField,
     Header,
+    SectionBanner,
     SectionContent,
     SectionForm,
     SectionGrid,

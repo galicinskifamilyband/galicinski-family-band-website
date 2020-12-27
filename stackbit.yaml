@@ -153,6 +153,7 @@ models:
             - section_form
             - section_grid
             - section_hero
+            - section_banner
             - section_portfolio
             - section_posts
             - section_testimonials
@@ -416,6 +417,16 @@ models:
           type: model
           models:
             - grid_item
+  section_banner:
+    type: object
+    label: Banner Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: imageurl
+        label: Image URL
+        description: URL of banner
   section_hero:
     type: object
     label: Hero Section
